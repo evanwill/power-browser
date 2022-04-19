@@ -3,52 +3,28 @@ nav_order: 5
 title: Reference & Resources
 ---
 
-To learn about using Lesson Template, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/learn-static/lesson-template/blob/main/README.md)).
 
-Workshop sites using this template:
+- [How Does the Internet Work?](https://youtu.be/i5oe63pOhLI) (idealistic Canadian video explains that *The internet is network of networks that connects devices.*)
+- Julia Evan's [Networking Zine](https://wizardzines.com/zines/networking/)
 
-- [Demo](https://learn-static.github.io/lesson-template/) (this repository) 
+HTML
 
-# Reference
+- [w3schools](https://www.w3schools.com/) (good tutorials and reference with examples)
+- [MDN web docs](https://developer.mozilla.org/en-US/) (higher level tutorials and reference)
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) (official open standard)
 
-## Git & GitHub
+CSS
 
-[GitHub](https://github.com/) is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/) powered by [Jekyll](https://jekyllrb.com/).
-Accounts are free.
-To learn more check out Hello World on [GitHub Guides](https://guides.github.com/) or [GitHub Learning Lab](https://lab.github.com/).
+- CSS [w3schools selector reference](https://www.w3schools.com/cssref/css_selectors.asp) or [MDN selectors reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- CSS [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity), [Inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance), and [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+- [Bootstrap docs](https://getbootstrap.com/docs/) and [Bootstrap examples](https://getbootstrap.com/docs/4.3/examples/)
+- [Get Started with Google Fonts](https://developers.google.com/fonts/docs/getting_started)
+- [css-tricks](https://css-tricks.com/) (helpful blog)
+- [CSS Standards](https://www.w3.org/Style/CSS/)
 
-## Markdown
+JS
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-Markdown can be used any where on GitHub and in Jekyll.
+- [w3schools JS](https://www.w3schools.com/js/)
+- [MDN JS learning pathways](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
-- [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/){:target="_blank" rel="noopener"}
-- [GitHub Markdown documentation](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax){:target="_blank" rel="noopener"}
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
-
-## Bootstrap 5
-
-[Bootstrap](https://getbootstrap.com/) is a CSS framework designed to streamline developing user interfaces for your website.
-
-[Bootstrap Icons](https://icons.getbootstrap.com/) are SVG-based icon set used to add graphics to your content.
-
-## YAML
-
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the "_config.yml" file.
-
-## Liquid
-
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll]((https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the "_includes", "_layouts", and "_data" directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-## Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programmatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the "_sass" directory, that will be combined and compiled into normal CSS files when the site is built.
