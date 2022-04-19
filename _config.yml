@@ -11,16 +11,16 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Learn-Static Lesson Template
+title: Power Browser
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: lightning
 # description appears in sidebar footer
-description: "Create a lesson website with markdown"
+description: "Understanding how the web works!"
 # keywords for meta tags used by search engines
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "workshops, websites"
 # image for meta tags, will appear when sharing link on social media
 featured-image: "/images/uidaho-workshop.jpg"
 
@@ -29,7 +29,7 @@ author: evanwill
 # year or date published, displayed in sidebar
 publication_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/lesson-template
+source-code: https://github.com/evanwill/power-browser
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
