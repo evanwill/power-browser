@@ -17,3 +17,5 @@ Or put `view-source:` in front of any URL in your address bar, for example:
 `view-source:https://evanwill.github.io/web-crash-course/`
 
 This is HTML!
+
+{% include alert.html color="info" text="*Tip:* some web pages override your right-click context menu with options specific to the page. You can override their override by holding `Shift`!" %}

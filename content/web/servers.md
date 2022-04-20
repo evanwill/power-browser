@@ -1,5 +1,5 @@
 ---
-section_id: The Web
+section_id: Servers
 nav_order: 2
 title: Internet and Web Servers
 ---
@@ -22,3 +22,5 @@ They have processors, memory, hard drives, and network ports just like your comp
 {% include figure.html img="1024px-Wikimedia_Foundation_Servers-8055_32.jpg" alt="many colored ethernet cables connecting server racks" caption="<a href='https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_32.jpg'>Wikimedia Foundation Servers, Victorgrigas</a>" %}
 
 For more information about how information passes through the internet, check out [How Does the Internet Work (video)](https://youtu.be/i5oe63pOhLI) or Julia Evan's [Networking Zine](https://wizardzines.com/zines/networking/).
+
+{% include figure.html img="https://imgs.xkcd.com/comics/the_cloud.png" alt="xkcd comic strip shows a small server with cord stretched across the room" caption="<a href='https://xkcd.com/908'>The Cloud, xkcd</a>" %}

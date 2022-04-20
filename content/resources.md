@@ -1,6 +1,6 @@
 ---
 nav_order: 5
-title: Reference & Resources
+title: Resources
 ---
 
 ## Places to Create Your Own Site
@@ -12,7 +12,7 @@ Here are options with free accounts that are good for learning:
 - [W3Schools Spaces](https://www.w3schools.com/spaces/) - create simple static sites in your browser, integrated into a learning platform.
 - [GitHub Pages](https://pages.github.com/) - the popular code repository service GitHub provides free static hosting. This great if you use GitHub or want to share or collaborate on your code. Learn more in the [Go Go GH-Pages workshop](https://evanwill.github.io/go-go-ghpages-b/).
 
-## Learning Resources
+## Learning & Reference
 
 HTML
 

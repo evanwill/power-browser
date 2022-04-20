@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: Introduction
+title: The Web
 ---
 
 The web often seems like magic!

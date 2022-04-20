@@ -1,5 +1,5 @@
 ---
-section: The Web
+section: Servers
 nav_order: 2
 title: Addresses
 ---

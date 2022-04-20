@@ -6,7 +6,7 @@ title: Web Browsers
 
 A web browser is the piece of software on your computer for accessing and viewing documents on the internet.
 When you enter a URL into your browser's address bar, it sends a request to a server.
-The server processes the request, and send your computer some code.
+The server processes the request, and sends your computer some code.
 The browser renders that code to display a web page that you can view and interact with.
 
 {% include figure.html img="gnomeweb.png" alt="blank browser window" caption="GNOME Web browser" %}
