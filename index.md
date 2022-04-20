@@ -1,17 +1,12 @@
 ---
-title: Lesson Template
+title: Become a Power Browser --> Understanding How the Web Works!
 layout: page
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+Join us to explore the basics of how the web works (servers, addresses, and web browsers) and what the web is made of (HTML, CSS, JS). 
+Taking a peek under the hood will give you a more critical view of the web--and help you become more savvy with your web browser!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+{% include figure.html img="nicolas-picard-241854-unsplash.jpg" alt="spider web" width="65%" %}
 
 {% include toc.html %}
 

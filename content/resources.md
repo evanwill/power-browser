@@ -3,6 +3,11 @@ nav_order: 5
 title: Reference & Resources
 ---
 
+Places to create your own site
+
+- wordpress
+- github pages
+- w3schools
 
 - [How Does the Internet Work?](https://youtu.be/i5oe63pOhLI) (idealistic Canadian video explains that *The internet is network of networks that connects devices.*)
 - Julia Evan's [Networking Zine](https://wizardzines.com/zines/networking/)

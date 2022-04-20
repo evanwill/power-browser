@@ -1,31 +1,24 @@
 ---
 section_id: The Web
 nav_order: 2
-title: Servers
+title: Internet and Web Servers
 ---
 
-cloud, internet, web sounds magical
-demystify, actual hardware some where
+The web, internet, and cloud sound like ethereal places of the mind. 
+However, they are physical things.
 
-### Static vs. Dynamic Web
+A network is two or more computers connected. 
+The <span class="term">internet</span> is network of networks.
+So basically, the web is a bunch of computers hooked up with a bunch of wires!
 
-Traditionally, web servers acted more or less like a read-only shared folder of files. 
-You can think of a website as a folder of files.
-Thus, a **static website** is a collection of HTML, CSS, JS, images, and other files that are delivered exactly as they are on the server to users. 
-A URL in a static site generally represents a request for an HTML document in a specific file location.
+{% include figure.html img="1024px-Wikimedia_Foundation_Servers-8055_04.jpg" alt="gate around web servers with Wikimedia sign" caption="<a href='https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_04.jpg'>Wikimedia Foundation Servers, Victorgrigas</a>" %}
 
-In contrast a **dynamic website** uses a server-side programming language to create pages on the fly when a user makes a request. 
-Thus a URL represents a query, rather than an existing document on the server. 
-Think of complex sites such as social media, where users are constantly adding more data and there is no "static" documents, but streams of every changing content.
-None-the-less, what the server ultimately delivers to your browser is still HTML, CSS, and JS.
+The websites we browse come from <span class="term">Web Servers</span>.
+Servers are specialized computers that run software to host files and web services.
+They have processors, memory, hard drives, and network ports just like your computer--in fact you can use your laptop or a Raspberry Pi as a simple server--however, they are designed to pack into racks to maximize use of space and optimized for processing requests.
 
-In these platforms content, templates, and metadata are usually stored in a database. 
-For example, the popular [content management systems](https://en.wikipedia.org/wiki/Content_management_system) [WordPress](https://wordpress.com/) and [Drupal](https://www.drupal.org/) use the scripting language PHP and database MySQL.
-This enables complex interactivity such as comments, customized views, user management, and a web-based admin interface.
+{% include figure.html img="1024px-Multiple_Server_.jpg" alt="several racks of computers in a web server" caption="<a href='https://commons.wikimedia.org/wiki/File:Multiple_Server_.jpg'>Multiple Server racks, Cskiran</a>" %}
 
-Of course, all that complexity requires a lot of technical overhead... so static sites are experiencing a [renewed boom](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/), offering simplicity with:
+{% include figure.html img="1024px-Wikimedia_Foundation_Servers-8055_32.jpg" alt="many colored ethernet cables connecting server racks" caption="<a href='https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_32.jpg'>Wikimedia Foundation Servers, Victorgrigas</a>" %}
 
-- much faster performance (caching, low bandwidth, no processing time).
-- low hosting requirements (simple web servers, no dependencies).
-- no security vulnerabilities.
-- easy version control.
+For more information about how information passes through the internet, check out [How Does the Internet Work (video)](https://youtu.be/i5oe63pOhLI) or Julia Evan's [Networking Zine](https://wizardzines.com/zines/networking/).
