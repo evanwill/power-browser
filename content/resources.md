@@ -3,14 +3,16 @@ nav_order: 5
 title: Reference & Resources
 ---
 
-Places to create your own site
+## Places to Create Your Own Site
 
-- wordpress
-- github pages
-- w3schools
+Creating a website of your own is a great way to learn--and it is just fun to own a piece of the internet!
+Here are options with free accounts that are good for learning:
 
-- [How Does the Internet Work?](https://youtu.be/i5oe63pOhLI) (idealistic Canadian video explains that *The internet is network of networks that connects devices.*)
-- Julia Evan's [Networking Zine](https://wizardzines.com/zines/networking/)
+- [WordPress](https://wordpress.com/) - the worlds most popular Content Management System, originally designed to create blogs, WordPress now powers more than 40% of the web. Getting to know WordPress is definitely a good transferrable skill to add to your resume. It is relatively easy to get started (you won't have to write code) and has a powerful theme system.
+- [W3Schools Spaces](https://www.w3schools.com/spaces/) - create simple static sites in your browser, integrated into a learning platform.
+- [GitHub Pages](https://pages.github.com/) - the popular code repository service GitHub provides free static hosting. This great if you use GitHub or want to share or collaborate on your code. Learn more in the [Go Go GH-Pages workshop](https://evanwill.github.io/go-go-ghpages-b/).
+
+## Learning Resources
 
 HTML
 
@@ -25,11 +27,10 @@ CSS
 - [Bootstrap docs](https://getbootstrap.com/docs/) and [Bootstrap examples](https://getbootstrap.com/docs/4.3/examples/)
 - [Get Started with Google Fonts](https://developers.google.com/fonts/docs/getting_started)
 - [css-tricks](https://css-tricks.com/) (helpful blog)
-- [CSS Standards](https://www.w3.org/Style/CSS/)
+- [CSS Standards](https://www.w3.org/Style/CSS/) (official open standard)
 
 JS
 
 - [w3schools JS](https://www.w3schools.com/js/)
 - [MDN JS learning pathways](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-
