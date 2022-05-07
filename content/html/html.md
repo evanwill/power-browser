@@ -9,7 +9,7 @@ Hypertext Markup Language is a ["markup language"](https://en.wikipedia.org/wiki
 If you look at the pages of a book or the print out of your term paper, you will see a set of common conventions that we use to communicate structure and meaning.
 Document features such as headings, paragraphs, lists, or italics are represented on the page by distinctive styling. 
 HTML provides a way to formally mark those types of document elements, *in theory* allowing you to record the semantic structure of the text.
-The markup can then be translated by the web browser into visual styles for easy reading.
+The markup can then be translated by the web browser into visual styles for easy reading, or efficiently navigated by screen readers for non-visual users.
 
 Of course, as web pages become ever more complicated, HTML has gone far beyond a simple document language!
 

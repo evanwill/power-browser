@@ -21,13 +21,13 @@ Adding JS inline is simple, but has the same draw backs as inline CSS, mixing HT
 ## Script Tag
 
 JS contained in a `<script>` element will be executed in order as the HTML loads.
-Unless they are critical to immediate presentation, scripts are often added towards the bottom of the HTML file to optimize load times.
+Unless they are critical to immediate presentation, scripts are usually added to the bottom of the HTML file to optimize load times.
 
 Let's add another button:
 
 `<button type="button" id="pop">Pop Up</button>`
 
-Then attach a function using a script tag:
+Then attach a JS function to the button using a script tag:
 
 ```
 <script>
