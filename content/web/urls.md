@@ -54,6 +54,14 @@ protocol `://` domain `.` top-level domain `/` path and filename `?` query with 
     </tbody>
 </table>
 
+## 404?
+
+When you send a request to a server (i.e. type in an address, click on a link, or fill in a form) it sends back a status code to let your browser know what is happening. 
+Users generally don't see the status codes, except the dreaded 404. 
+
+404 is an error message in the HTTP protocol, saying that the URL doesn't correspond to anything on the server, i.e. the page can't be found, there is nothing at that address!
+Most websites have a special page that displays when you get a 404.
+
 ## Static and Dynamic Web
 
 Traditionally, web servers acted more or less like a read-only shared folder of files. 

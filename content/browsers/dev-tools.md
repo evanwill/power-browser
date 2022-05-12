@@ -13,6 +13,6 @@ Dev tools let you look at the code in context, which can be a great way to learn
 
 {% include figure.html img="devtools.png" alt="web page with dev tools open inspecting a header element" %}
 
-You can use dev tools to manipulate the page you are looking at by applying your own styles that override what the server sents. 
+You can use dev tools to manipulate the page you are looking at by applying your own styles that override what the server sends. 
 
 In the area that says "element.style", try typing in `display: none;`.
