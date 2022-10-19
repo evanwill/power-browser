@@ -17,7 +17,7 @@ Most operating systems come with a browser pre-installed (Windows = Edge, Mac = 
 You can always install the browser(s) of your choice.
 Each has different advantages, so don't be afraid to give a few a try.
 
-- [Google Chrome](https://www.google.com/chrome/) - currently the worlds most popular browser by far, dominating the market share. The browser asks that you are signed into your Google account, which facilitates many things (such as saving passwords, logging in, syncing your history and browsing). However, this also introduces some concerns with privacy, since Google controls the dominate search, ad network, and browser, making their money from user data. Chrome is built on top of the open source browser project [Chromium](https://www.chromium.org/Home/). Chromium itself is easy to install on Linux, but not on Windows or Mac. However, there are other browsers based on Chromium available:
+- [Google Chrome](https://www.google.com/chrome/) - currently the worlds most popular browser by far, dominating the market share. The browser asks you to sign into your Google account, which facilitates many things (such as saving passwords, logging in, syncing your history and browsing). However, this also introduces some concerns with privacy, since Google controls the dominate search, ad network, and browser, making their money from user data. Chrome is built on top of the open source browser project [Chromium](https://www.chromium.org/Home/). Chromium itself is easy to install on Linux, but not on Windows or Mac. However, there are other browsers based on Chromium available:
     - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - designed as default browser for Windows. Tends to push Bing search and other MS services.
     - [Vivaldi](https://vivaldi.com/) - designed to be highly customizable and block tracking.
     - [Brave](https://brave.com/) - privacy focused features.
@@ -41,3 +41,12 @@ There are bad, malicious, and malware extensions out there.
 Carefully check reviews, the number of installs, and developer information to ensure you are installing a good extension. 
 Pay attention to the permissions you are granting to the extension and consider if those permissions are necessary for the functionality.
 Use curated lists, such as Mozilla Staff Picks and Recommendations to find quality options.
+
+## Stats
+
+A number of organizations, such as [Global StatsCounter](https://gs.statcounter.com/), try to estimate market share of the different browsers on the web. 
+This isn't easy considering the complexity and scale of the web, so the numbers are pretty squishy (for example, caching use and tracking blockers common on Firefox and other privacy focused browsers causes undercounting).
+
+Trends suggest use of browsers on mobile devices continues to grow, making up almost 60% of use, with desktop around 40% and tablets at 2%. 
+Chrome has dominated market share recently, usually over 60% of users, with Safari growing (due to use on iPhones) to around 15%.
+Other browsers are far behind in number of users!

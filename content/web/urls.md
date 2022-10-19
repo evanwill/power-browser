@@ -56,7 +56,7 @@ protocol `://` domain `.` top-level domain `/` path and filename `?` query with 
 
 ## 404?
 
-When you send a request to a server (i.e. type in an address, click on a link, or fill in a form) it sends back a status code to let your browser know what is happening. 
+When you send a request to a server (i.e. type in an address, click on a link, or fill in a form) it sends back a [status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) to let your browser know what is happening. 
 Users generally don't see the status codes, except the dreaded 404. 
 
 404 is an error message in the HTTP protocol, saying that the URL doesn't correspond to anything on the server, i.e. the page can't be found, there is nothing at that address!
@@ -80,3 +80,11 @@ None-the-less, what the server ultimately delivers to your browser is still HTML
 In these platforms content, templates, and metadata are usually stored in a database. 
 For example, the popular [content management systems](https://en.wikipedia.org/wiki/Content_management_system) [WordPress](https://wordpress.com/) and [Drupal](https://www.drupal.org/) use the scripting language PHP and database MySQL.
 This enables complex interactivity such as comments, customized views, user management, and a web-based admin interface.
+
+## My IP Address
+
+Internet Protocol addresses (IP Address) are numbers assigned to identify computers connected to a network, allowing devices to connect sort of like a phone number.
+The standard is managed by the [Internet Assigned Numbers Authority (IANA)](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority).
+
+When you connect to a network, you computer gets assigned an IP address.
+Try searching for "my ip address" on Google to check yours!
