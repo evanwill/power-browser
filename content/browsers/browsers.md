@@ -52,3 +52,5 @@ This isn't easy considering the complexity and scale of the web, so the numbers 
 Trends suggest use of browsers on mobile devices continues to grow, making up almost 60% of use, with desktop around 40% and tablets at 2%. 
 Chrome has dominated market share recently, usually over 60% of users, with Safari growing (due to use on iPhones) to around 15%.
 Other browsers are far behind in number of users!
+
+For very detailed nerdy visualization, see [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm).
