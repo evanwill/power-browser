@@ -54,6 +54,8 @@ protocol `://` domain `.` top-level domain `/` path and filename `?` query with 
     </tbody>
 </table>
 
+Checkout [url-parts](https://url-parts.glitch.me/) for more URL dissecting!
+
 ## 404?
 
 When you send a request to a server (i.e. type in an address, click on a link, or fill in a form) it sends back a [status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) to let your browser know what is happening. 
